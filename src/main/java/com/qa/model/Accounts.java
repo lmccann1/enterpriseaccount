@@ -26,7 +26,6 @@ public class Accounts {
 		this.firstname = firstname;
 		this.surname = surname;
 		this.accountNum = accountNum;
-
 	}
 
 	public Long getId() {
